@@ -1,1 +1,1 @@
-# SupplyChain-Management-Syatem
+# SupplyChain-Management-System
